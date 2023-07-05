@@ -8,9 +8,8 @@
 ![IMG_20230705_133241_000](https://github.com/Vedkkp/Blockchain/assets/100022997/c2f72c46-4067-4b8e-9efe-782e7ddfaa68)
 
 
-
-
-
+## What is ERC 20 Token?
+ERC-20 tokens are a type of cryptocurrency built on the Ethereum Blockchain. They are digital tokens that can represent anything from shares in a company to virtual assets in a game.
 
 
 # How to deploy ERC 20.
