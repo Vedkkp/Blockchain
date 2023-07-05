@@ -1,5 +1,5 @@
 # Blockchain
-*This is my repository regarding the Blockchain.*
+*This is my repository regarding the Blockchain regarding ERC 20.*
 
 **My Token Information**
 1. Name: vedtoken (VT)
