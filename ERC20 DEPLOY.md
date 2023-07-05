@@ -1,6 +1,15 @@
 # Blockchain
 *This is my repository regarding the Blockchain.*
 
+**My Token Information**
+Name:vedtoken (VT)
+Token id:Ox4567e76C4ba9546DA603115333fB1002Fa30fa24
+
+
+
+
+
+
 # How to deploy ERC 20.
 
 ## MetaMask
@@ -15,6 +24,8 @@
 1. Open the site using the link given above.
 2. Connect it with your Metamask account and start mining.
 3. When you reach 0.01 then stop mining and collect the reward to you Metamask account.
+
+![Screenshot_20230705-132853_Chrome](https://github.com/Vedkkp/Blockchain/assets/100022997/1e346e99-5bc9-4662-a2b6-d9efbeb0feca)
 
 
 ## 20lab
