@@ -2,18 +2,7 @@
 This is my repository regarding the Blockchain which contain Hyperledger Fabric deploy. 
 
 
-# Creating ERC-20 Tokens:-
-#### Create an account on any crypto-wallet like Metamask, Coinbase etc.
-#### Creating an ERC20 token involves a Solidity contract that implements the ERC20 token standard. This contract will define the token's properties, such as the total supply, symbol, name, decimals, and token balances for each address.
-#### Now this can either be done by manually writing the code or by using existing platforms like 20Lab, Kaleido etc. I used [this](https://vittominacori.github.io/erc20-generator/) to create my ERC-20 token. Set out your preferences and voila, your contract is compiled and deployed.
-#### To publish your token, a gas fee is charged. Be sure to mine the said currency beforehand(I mined GoerliETH testnet from [here](https://goerli-faucet.pk910.de/)).
-#### Now check your Token on https://etherscan.io/
-![image](https://github.com/Mehul6112/Hyperledger-Fabric-curve/assets/119481480/3e71c1fe-b96c-4158-8b71-9e2db3a39263)
-Note: Creating an ERC20 token involves careful planning, coding, and consideration of security best practices. It's essential to understand the implications and requirements of the Ethereum network and the ERC20 standard
 
-
-## Setting Up a Development Environment such as Remix to compile and deploy your smart contract.
-#### working on it.
 
 # Hyperledger-Fabric
 
