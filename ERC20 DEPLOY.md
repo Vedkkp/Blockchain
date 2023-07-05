@@ -1,12 +1,13 @@
 # Blockchain
 *This is my repository regarding the Blockchain.*
 
-# Here are some steps to deploy ERC-20 or creating a Token.
+# How to deploy ERC 20.
 
 ## MetaMask
 1. Create your **MetaMask wallet** *(get the wallet address)*.
 2. In MetaMask go to setting then connect to **Goreli Test-network**.
 3. At the moment you will not have any GoreliETH, so we need to mine it.
+![images](https://github.com/Vedkkp/Blockchain/assets/100022997/ad955f30-15b6-4f83-8a44-bf7b1d571ac9)
   
 ## Goerli Faucet  
 *From https://goerli-faucet.pk910.de/ this website you can mine GoreliETH by using your wallet address. Then mine more then 0.01.*
