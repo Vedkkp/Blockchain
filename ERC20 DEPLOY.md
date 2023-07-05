@@ -31,6 +31,7 @@
 3. When you reach 0.01 then stop mining and collect the reward to you Metamask account.
 
 ![Screenshot_20230705-132853_Chrome](https://github.com/Vedkkp/Blockchain/assets/100022997/1e346e99-5bc9-4662-a2b6-d9efbeb0feca)
+![05 07 2023_15 22 52_REC](https://github.com/Vedkkp/Blockchain/assets/100022997/f1e8fb05-fa23-4ef1-b55b-ddd07f1318a3)
 
 
 ## 20lab
