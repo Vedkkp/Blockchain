@@ -44,9 +44,10 @@
 
 ### Go to https://goerli.etherscan.io/ this website then give your Token address in search-bar or click Etherscan icon below your token address in 20lab. 
 Now, you can see your transactions history of that Token.
+![05 07 2023_15 35 png](https://github.com/Vedkkp/Blockchain/assets/100022997/171a3b78-60c2-48b8-a284-915f2d948cee)
+
 
 ### Here's my token address and other information regarding token.
-![IMG_20230705_132420_128](https://github.com/Vedkkp/Blockchain/assets/100022997/c7c487c3-7681-44b0-9caf-d22241020071)
 
 
 **ERC DEPLOY DONE!!**
